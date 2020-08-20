@@ -1,3 +1,6 @@
+# Disclaimer
+# FOR EDUCATIONAL PURPOSE ONLY. I AM NOT RESPONSIBLE FOR ANYTHING
+
 # UnrootApp
 # Remove Root Detection Android Apps
 
