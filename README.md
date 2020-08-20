@@ -1,6 +1,5 @@
 # Disclaimer
-- FOR EDUCATIONAL PURPOSE ONLY. I AM NOT RESPONSIBLE FOR ANYTHING
-- https://github.com/scottyab/rootbeer
+FOR EDUCATIONAL PURPOSE ONLY. I AM NOT RESPONSIBLE FOR ANYTHING
 
 ///////////////////////////////////
 Remove Root Detection Android Apps
@@ -95,3 +94,5 @@ Remove Root Detection Android Apps
             //"/proc",
             //"/dev"
     };
+
+* https://github.com/scottyab/rootbeer
