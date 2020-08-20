@@ -1,8 +1,9 @@
 # Disclaimer
 # FOR EDUCATIONAL PURPOSE ONLY. I AM NOT RESPONSIBLE FOR ANYTHING
 
-# UnrootApp
-# Remove Root Detection Android Apps
+///////////////////////////////////
+Remove Root Detection Android Apps
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
     public static final String BINARY_SU = "su";
     public static final String BINARY_BUSYBOX = "busybox";
