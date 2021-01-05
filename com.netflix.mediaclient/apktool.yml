@@ -1,0 +1,253 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Netflix 7.84.1 build 28 35243 (com.netflix.mediaclient).apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.annotation_annotation-experimental.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core-ktx.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-preference-v14.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-extensions.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-process.version
+- META-INF/androidx.lifecycle_lifecycle-runtime-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-service.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-ktx.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.mediarouter_mediarouter.version
+- META-INF/androidx.palette_palette.version
+- META-INF/androidx.preference_preference.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.room_room-runtime.version
+- META-INF/androidx.room_room-rxjava2.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.sqlite_sqlite-framework.version
+- META-INF/androidx.sqlite_sqlite.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager2_viewpager2.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/androidx.work_work-runtime-ktx.version
+- META-INF/androidx.work_work-runtime.version
+- META-INF/androidx.work_work-rxjava2.version
+- META-INF/com.google.android.material_material.version
+- META-INF/com.google.dagger_dagger-lint-aar.version
+- META-INF/com.google.dagger_dagger.version
+- META-INF/com.google.dagger_hilt-android.version
+- META-INF/com.google.dagger_hilt-core.version
+- META-INF/services/com.fasterxml.jackson.core.ObjectCodec
+- assets/a
+- assets/tf-predictor_15.tflite
+- assets/volicense_av1.dat
+- res/raw/IA
+- res/raw/IB
+- res/raw/IC
+- res/raw/IF
+- res/raw/IG
+- res/raw/IH
+- res/raw/II
+- res/raw/IJ
+- res/raw/IK
+- res/raw/IL
+- res/raw/IM
+- res/raw/IN
+- res/raw/IO
+- res/raw/IP
+- res/raw/IQ
+- res/raw/IR
+- res/raw/IT
+- res/raw/Il
+- res/raw/Ip
+- res/raw/Iq
+- res/raw/Ir
+- res/raw/Is
+- res/raw/It
+- res/raw/Iu
+- res/raw/Iv
+- res/raw/Iw
+- res/raw/Ix
+- res/raw/Iy
+- res/raw/Iz
+- res/raw/Kh
+- res/raw/Km
+- res/raw/Kn
+- res/raw/Kq
+- res/raw/Kr
+- res/raw/Ks
+- res/raw/Kt
+- res/raw/Zc
+- res/raw/Zd
+- res/raw/Zf
+- res/raw/Zg
+- res/raw/acw
+- res/raw/awU.webp
+- res/raw/awV
+- res/raw/awW.webp
+- res/raw/awX
+- res/raw/awY.webp
+- res/raw/awZ
+- res/raw/axa.webp
+- res/raw/axb
+- res/raw/axc
+- res/raw/axd.webp
+- mp3
+- res/raw/fJ
+- res/raw/lM
+- res/raw/qk
+- res/raw/qo
+- res/raw/qp
+- res/raw/zS
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo: null
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  DebugProbesKt.bin: '8'
+  a-: '0'
+  b-: '0'
+  c-: '0'
+  d-: '0'
+  e-: '0'
+  f-: '0'
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-components.properties: '8'
+  firebase-core.properties: '8'
+  firebase-datatransport.properties: '8'
+  firebase-encoders-json.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-auth-api-phone.properties: '8'
+  play-services-auth-base.properties: '8'
+  play-services-auth.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-cast-framework.properties: '8'
+  play-services-cast.properties: '8'
+  play-services-cronet.properties: '8'
+  play-services-flags.properties: '8'
+  play-services-identity.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-recaptcha.properties: '8'
+  play-services-safetynet.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  transport-api.properties: '8'
+  transport-backend-cct.properties: '8'
+  transport-runtime.properties: '8'
+  stamp-cert-sha256: '8'
+  com/ibm/icu/impl/data/icudt59b/confusables.cfu: '8'
+  com/ibm/icu/impl/data/icudt59b/currencyNumericCodes.res: '8'
+  com/ibm/icu/impl/data/icudt59b/dayPeriods.res: '8'
+  com/ibm/icu/impl/data/icudt59b/fullLocaleNames.lst: '8'
+  com/ibm/icu/impl/data/icudt59b/genderList.res: '8'
+  com/ibm/icu/impl/data/icudt59b/keyTypeData.res: '8'
+  com/ibm/icu/impl/data/icudt59b/likelySubtags.res: '8'
+  com/ibm/icu/impl/data/icudt59b/metaZones.res: '8'
+  com/ibm/icu/impl/data/icudt59b/metadata.res: '8'
+  com/ibm/icu/impl/data/icudt59b/nfc.nrm: '8'
+  com/ibm/icu/impl/data/icudt59b/nfkc.nrm: '8'
+  com/ibm/icu/impl/data/icudt59b/nfkc_cf.nrm: '8'
+  com/ibm/icu/impl/data/icudt59b/numberingSystems.res: '8'
+  com/ibm/icu/impl/data/icudt59b/plurals.res: '8'
+  com/ibm/icu/impl/data/icudt59b/pnames.icu: '8'
+  com/ibm/icu/impl/data/icudt59b/pool.res: '8'
+  com/ibm/icu/impl/data/icudt59b/res_index.res: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3491.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3530cs.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3530csci.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3530mixp.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3722.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3920node.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc3920res.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc4011.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc4013.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc4505.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc4518.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/rfc4518ci.spp: '8'
+  com/ibm/icu/impl/data/icudt59b/root.res: '8'
+  com/ibm/icu/impl/data/icudt59b/supplementalData.res: '8'
+  com/ibm/icu/impl/data/icudt59b/timezoneTypes.res: '8'
+  com/ibm/icu/impl/data/icudt59b/ubidi.icu: '8'
+  com/ibm/icu/impl/data/icudt59b/ucase.icu: '8'
+  com/ibm/icu/impl/data/icudt59b/unames.icu: '8'
+  com/ibm/icu/impl/data/icudt59b/uprops.icu: '8'
+  com/ibm/icu/impl/data/icudt59b/uts46.nrm: '8'
+  com/ibm/icu/impl/data/icudt59b/windowsZones.res: '8'
+  com/ibm/icu/impl/data/icudt59b/zoneinfo64.res: '8'
+  com/ibm/icu/impl/data/icudt59b/curr/fullLocaleNames.lst: '8'
+  com/ibm/icu/impl/data/icudt59b/curr/pool.res: '8'
+  com/ibm/icu/impl/data/icudt59b/curr/res_index.res: '8'
+  com/ibm/icu/impl/data/icudt59b/curr/root.res: '8'
+  com/ibm/icu/impl/data/icudt59b/curr/supplementalData.res: '8'
+  com/ibm/icu/impl/data/icudt59b/rbnf/fullLocaleNames.lst: '8'
+  com/ibm/icu/impl/data/icudt59b/rbnf/res_index.res: '8'
+  com/ibm/icu/impl/data/icudt59b/rbnf/root.res: '8'
+  com/ibm/icu/impl/duration/impl/data/index.txt: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_ar_EG.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_ar_EG.xml.escaped: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_en.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_es.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_fr.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_he_IL.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_hi.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_it.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_ja.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_ko.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_ru.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_th.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_zh_Hans.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_zh_Hans_SG.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_zh_Hant.xml: '8'
+  com/ibm/icu/impl/duration/impl/data/pfd_zh_Hant_HK.xml: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+  org/bouncycastle/x509/CertPathReviewerMessages.properties: '8'
+  org/bouncycastle/x509/CertPathReviewerMessages_de.properties: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '35243'
+  versionName: 7.84.1 build 28 35243

@@ -1,6 +1,7 @@
-INSTALL GOOGLE PLAY EMULATOR
--> http://linuxoidchannel.blogspot.com/2017/01/how-to-install-google-play-store-on.html
--> https://jztkft.dl.sourceforge.net/project/opengapps/x86/20200611/open_gapps-x86-8.0-tvstock-20200611.zip
+
+::::::::::::::::::::::::::::::::
+::INSTALL GOOGLE PLAY EMULATOR::
+::::::::::::::::::::::::::::::::
 
 
 CMD ADMINISTRATOR
@@ -22,6 +23,7 @@ c) cat /proc/mounts|grep system (Check ReadOnly or Write)
                                                                    ==
 /dev/block/pci/pci0000:00/0000:00:03.0/by-name/system /system ext4 ro,seclabel,relatime,data=ordered 0 0
 /dev/block/pci/pci0000:00/0000:00:03.0/by-name/system /system ext4 rw,seclabel,relatime,data=ordered 0 0
+                                                                   ==
 
 d) mount -o rw,remount /system (ReadtoWrite)
 
